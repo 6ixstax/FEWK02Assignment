@@ -36,6 +36,8 @@ p {
     background-color: rgb(99, 72, 218);
     color: white;
     padding: 8px;
+    margin: 8px;
+    line-height: 100px;
 }
 
 .list {
